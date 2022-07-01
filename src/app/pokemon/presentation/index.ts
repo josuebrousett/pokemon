@@ -1,0 +1,1 @@
+export * from './mi-pokemon/mi-pokemon.component'
